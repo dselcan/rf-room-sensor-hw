@@ -1,0 +1,12 @@
+Id,Designator,Package,Quantity,Designation,Supplier and ref
+1,"BT1,BT3,BT2",BatteryHolder_Keystone_56_AAA,6,Battery_Cell,
+2,"R10,R9,R8,R4,R3,R2",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,6,10k,https://eu.mouser.com/ProductDetail/652-CR0603FX-1002ELF
+3,Q1,SOT-23,1,"NX3008PBK,215 ",https://eu.mouser.com/ProductDetail/771-NX3008PBK%2c215
+4,U2,SOIC-14_3.9x8.7mm_P1.27mm,1,ATtiny404-SS,https://eu.mouser.com/ProductDetail/579-ATTINY404-SSN
+5,U1,Texas_PWSON-N6,1,HDC1080,https://eu.mouser.com/ProductDetail/595-HDC1080DMBR
+6,"C5,C2",C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,2,1u,https://eu.mouser.com/ProductDetail/187-CL10A105KA8NNNC
+7,"C10,C4,C3,C1",C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,4,100n,https://eu.mouser.com/ProductDetail/963-TMK107BJ104MA-T
+,,,,,
+,Non-PCB items,,,,
+,N/A,Enclosure 1551V3WH ,1,,https://eu.mouser.com/ProductDetail/546-1551V3WH
+,N/A,"Screw 3,0 x 15 self-tapping",4,,
